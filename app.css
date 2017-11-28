@@ -7,11 +7,10 @@ body {
     
 }
 header {
-      text-align: center;
-      background: url(https://lh3.google.com/u/0/d/18TG4ltff-OSICzx7y0dS3gLUnIMYdyma=w944-h811-iv1);
-      background-size: cover;
-      color: white;
-
+  text-align: center;
+  color: white;
+  font-family:'Sacramento', cursive;
+  background: url("images/croppedskybackground.jpg");
 }
 
 ul {
