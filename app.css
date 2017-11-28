@@ -14,9 +14,8 @@ header {
     color: white;
 }
 
-ul{
-    padding:10px
-    background-color: rgba(0px 0px 0px 0px);
+ul {
+   padding:10px;
 }
 
 a {
@@ -34,6 +33,10 @@ img {
 .linkBar{
     display: inline;
     padding: 0px 10px 0px 10px;
+    background: black;
+    
 }
-
-
+@media (max-width: 500px) {
+    body {
+      background: red;
+     }
