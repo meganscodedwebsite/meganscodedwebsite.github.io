@@ -8,27 +8,46 @@ body {
 header {
   text-align: center;
   color: white;
-  font-family:'Sacramento', cursive;
+  font-family: 'Sacramento' , cursive;
   background: url("images/splash.jpg");
-  padding: 0px 0px 0px 10px;
+  background-size: cover;
+  padding:40px 0px 0px 10px;
 }
-
+p {
+    font-family: 'Patrick Hand', cursive;
+}
+article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+  }
 ul {
-   padding:10px;
+    font-family: 'Boogaloo', cursive;
+   padding:20px;
 }
-
+h2 {
+    font-family: 'Delius', cursive;
+}
 a {
     color:white;
 }
 
+.infomegan{
+    font-family: 'Sacramento' , cursive;
+    font-size: 30px;
+    text-align: center;
+    
+}
 h1{
+
     font-size: 70px;
 }
 img {
     margin: 40px 0px 0px 0px;
-    border: 5px solid white;
+    border: 5px solid grey;
     border-radius: 20px;
 }
+
 .linkBar{
     display: inline;
     padding: 0px 10px 0px 10px;
