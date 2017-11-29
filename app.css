@@ -24,7 +24,7 @@ article {
 ul {
     font-family: 'Boogaloo', cursive;
    padding:20px;
-    background-color: rgba(0,0,0,.5);
+    /*background-color: rgba(0,0,0,.5);*/
   
 }
 h2 {
@@ -49,7 +49,9 @@ img {
     border: 5px solid grey;
     border-radius: 20px;
 }
-
+.links{
+ background-color: rgba(0,0,0,.5);
+}
 .linkBar{
     display: inline;
     padding: 0px 10px 0px 10px;
